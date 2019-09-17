@@ -1,0 +1,14 @@
+Class: fancyBistro
+
+Attributes
+numberOfTables (integer)
+numberOfSeats (integer)
+lastCleaned (datetime)
+menuItemCount (integer)
+priceRange (string)
+
+Methods
+squeeze (decreases numberOfTables attribute by 3, increases numberOfSeats by 6)
+cleanRestaurant (alters the lastCleaned attribute)
+addNewDish (increases the menuItemCount attribute by 1)
+upscale (alters the priceRange attribute)
