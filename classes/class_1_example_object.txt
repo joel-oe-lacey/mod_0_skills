@@ -1,0 +1,14 @@
+Instance: McLorettas Sleazy Sliders
+
+Attributes
+name: 'McLorettas Sleazy Sliders'
+burgerManufactureCost: 1.32
+burgerSalePrice: 3.99
+numberOfLocations: 8683
+currentPromotion: false
+
+Methods
+rename: 'McLorettas Totally-clean Sliders'
+profitMargin: 3.99 - 1.32 = 2.67
+openNewLocation: 8683 + 1 = 8684
+startAdCampaign: true
