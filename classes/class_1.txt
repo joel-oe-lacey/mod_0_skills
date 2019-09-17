@@ -1,0 +1,14 @@
+Class: fastFoodRestaurant
+
+Attributes
+name (string)
+burgerManufactureCost (float)
+burgerSalePrice (float)
+numberOfLocations (integer)
+currentPromotion (boolean)
+
+Methods
+rename (alters the name attribute)
+profitMargin (subtract burgerManufactureCost from burgerSalePrice)
+openNewLocation (increases the numberOfLocations attribute by 1)
+startAdCampaign (alters the currentPromotion attribute)
