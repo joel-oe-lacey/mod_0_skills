@@ -1,0 +1,44 @@
+How to become a Turing student
+
+1 Decide you want to pursue a career in development
+  1.1 Do some research on career options
+    1.1.1 Google different career paths for developers
+      1.1.1.1 Look at some of those careers for major companies on glassdoor to get a feel for employee satisfaction
+    1.1.2 Look for discussions from Turing grads online about career paths they went down
+      1.1.2.1 Perhaps reach out to Turing grads to discuss their experience
+  1.2 Consider your fit
+    1.2.1 Try out a coding course to see if it fits your expectations
+    1.2.2 Read through a common engineering workflow, is this something you want to be doing?
+    1.2.3 Decide if based on your research so far you'd better fit the Frontend or Backend program.
+2 Research the decided program
+  2.1 Read online about that Turing program
+  2.2 Schedule appointment with Erin
+    2.2.1 Discuss program details and expectations
+      2.2.1.1 Review curriculum links Erin provides
+    2.2.2 Ask any questions you've come up with so far in your research
+3 Apply for the program of your choice
+  3.1 Study for entrance exam
+    3.1.1 Review LSAT logic problems, and logic problems generally
+  3.2 Go online and begin application
+    3.2.1 Make sure you are in a quiet place with a steady connection
+    3.2.2 Run through the application questions
+      3.2.2.1 Read through the question thoroughly
+      3.2.2.2 Draw out the question and potential variables
+      3.2.2.3 Logically reason out incorrect answers
+      3.2.2.4 Decide on correct answers
+4 Should the application be successful, have an initial interview
+  4.1 Schedule time online for the call
+  4.2 Ensure you have consistent connection and call in
+5 Should that go well, have a meeting with Darren to discuss fit
+  5.1 Discuss the culture of Turing
+    5.1.1 Consider this against your own personality
+      5.1.1.1 Based on past work or learning environments does this seem like something you would enjoy?
+  5.2 Make sure it's feasible
+    5.2.1 Confirm if you have the budget
+    5.2.2 Confirm if you have the time and flexibility
+    5.2.3 Confirm if the workflow
+6 Enroll
+  6.1 If accepted enroll in the program
+  6.2 If needed work out loan details
+  6.3 Ensure tuition is taken care of
+  6.4 Pick up laptop
