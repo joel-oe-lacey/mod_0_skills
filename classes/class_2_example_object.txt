@@ -1,0 +1,14 @@
+Instance: The Full-Tux Grille
+
+Attributes
+numberOfTables: 12
+numberOfSeats: 38
+lastCleaned: 19990601
+menuItemCount: 112
+priceRange: 'High'
+
+Methods
+squeeze: 12 - 3 = 9, 38 + 6 = 44
+cleanRestaurant: 20190916
+addNewDish: 112 + 1 = 113
+upscale: 'Very High'
